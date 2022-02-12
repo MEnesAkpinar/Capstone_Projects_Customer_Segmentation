@@ -12,39 +12,41 @@ Finally, I clustered customers using the K-Means Clustering method, after that l
 Tasks
 
 1. Import Libraries, Load Dataset, Exploring Data
-Import Libraries
-Load Dataset
-Explore Data
+
+  -Import Libraries<br>
+  -Load Dataset<br>
+  -Explore Data
 
 2. Exploratory Data Analysis (EDA)
 
 3. Cluster Analysis
+
 Clustering based on Age and Spending Score
 
-i. Create a new dataset with two variables of your choice
+    i. Create a new dataset with two variables of your choice
 
-ii. Determine optimal number of clusters
+    ii. Determine optimal number of clusters
 
-iii. Apply K Means
+    iii. Apply K Means
 
-iv. Visualizing and Labeling All the Clusters
+    iv. Visualizing and Labeling All the Clusters
 
 Clustering based on Annual Income and Spending Score
 
-i. Create a new dataset with two variables of your choice
+    i. Create a new dataset with two variables of your choice
 
-ii. Determine optimal number of clusters
+    ii. Determine optimal number of clusters
 
-iii. Apply K Means
+    iii. Apply K Means
 
-iv. Visualizing and Labeling All the Clusters
+    iv. Visualizing and Labeling All the Clusters
 
 Hierarchical Clustering
 
-i. Determine optimal number of clusters using Dendogram
+    i. Determine optimal number of clusters using Dendogram
 
-ii. Apply Agglomerative Clustering
+    ii. Apply Agglomerative Clustering
 
-iii. Visualizing and Labeling All the Clusters
+    iii. Visualizing and Labeling All the Clusters
 
 Conclusion
